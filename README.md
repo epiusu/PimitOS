@@ -1,9 +1,9 @@
-# PimiOS - Rehber
+# PimitOS - Rehber
 Aktif Mobil İşletim Sistemleri Karşılaştırmalı Veri.
 
-PimiOS - Rehber, mobil işletim sistemleri dünyasındaki güncel pazar paylarını, gizlilik odaklı custom ROM'ları, Linux tabanlı açık kaynak projeleri ve tarihsel sistemleri tek bir modern sayfada sunan bağımsız bir web rehberidir.
+PimitOS - Rehber, mobil işletim sistemleri dünyasındaki güncel pazar paylarını, gizlilik odaklı custom ROM'ları, Linux tabanlı açık kaynak projeleri ve tarihsel sistemleri tek bir modern sayfada sunan bağımsız bir web rehberidir.
 Proje tamamen statik (HTML + CSS + JS) yapıdadır; herhangi bir backend, framework veya derleme adımına ihtiyaç duymaz. Tarayıcıda doğrudan çalışır ve GitHub Pages, Netlify veya Vercel gibi platformlarda saniyeler içinde yayınlanabilir.
-
+<img src="https://img.png" alt="img" class="responsive">
 Tema Yönetimi
 Karanlık/Açık mod geçişi, localStorage ile kalıcı tercih, T tuşu kısayolu
 📱 Tam Responsive
