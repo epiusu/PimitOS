@@ -42,7 +42,12 @@ Branch: <code>main, Folder: / (root)</code> seçin
 URL otomatik oluşturulur: <code>https://kullaniciadi.github.io/pimios</code>
 
 # Lisans
-<div class="markdown-paragraph"><span class="markdown-text">Bu proje </span><a class="markdown-link" href="https://github.com/epiusu/PimitOS/blob/main/LICENSE.md" target="_blank" rel="noreferrer"><span class="markdown-text">MIT Lisansı</span><span role="img" class="anticon qwen-markdown-link-icon"><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" focusable="false" class=""><use xlink:href="#icon-line-arrow-up-right"></use></svg></span></a><span class="markdown-text" > altında açık kaynak olarak dağıtılmaktadır. Ticari ve kişisel kullanım serbesttir.</span></div>
+
+Bu proje MIT lisansı altında lisanslanmıştır. Dilediğiniz gibi kullanabilirsiniz. Detaylar için <a href="https://github.com/epiusu/PimitOS/blob/main/LICENSE.md">LICENSE</a> dosyasına bakınız.
+
+# Bilgi
+
+Bu html sayfa Claude sanal zeka tarafından yaptırılmıştır.
 
 # Kaynaklar
 <ul>
