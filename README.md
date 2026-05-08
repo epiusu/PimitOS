@@ -47,7 +47,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Dilediğiniz gibi kullanabili
 
 # Bilgi
 
-Bu html sayfa Claude sanal zeka tarafından yaptırılmıştır.
+Bu html sayfa QWen sanal zeka tarafından yaptırılmıştır.
 
 # Kaynaklar
 <ul>
